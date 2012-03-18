@@ -1,0 +1,1 @@
+ruby tweet_to_image_cli.rb "-d $@"
